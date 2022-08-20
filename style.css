@@ -26,42 +26,45 @@ body {
 }
 
 nav {
-  background: #a7ffeb;
+  background: #5eff00;
+  background: -webkit-linear-gradient(to right, #d1f103, #f7ff00);
+  background: linear-gradient(to right, #72e613, #f7ff00);  
   grid-area: nav;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
 }
 
-main {
-  background: #84ffff;
-  grid-area: main;
-  border-radius: var(--main-radius);
-  padding-top: var(--main-padding);
-}
-
 #sidebar {
-  background: #18ffff;
+  background: #5eff00;
+  background: -webkit-linear-gradient(to right, #d1f103, #f7ff00);
+  background: linear-gradient(to right, #72e613, #f7ff00);  
   grid-area: sidebar;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
 }
 
 #content1 {
-  background: #6fffd2;
+  background: #5eff00;
+  background: -webkit-linear-gradient(to right, #d1f103, #f7ff00);
+  background: linear-gradient(to right, #72e613, #f7ff00);  
   grid-area: content1;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
 }
 
 #content2 {
-  background: #64ffda;
+  background: #5eff00;
+  background: -webkit-linear-gradient(to right, #d1f103, #f7ff00);
+  background: linear-gradient(to right, #72e613, #f7ff00);  
   grid-area: content2;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
 }
 
 footer {
-  background: #1de9b6;
+  background: #5eff00;
+  background: -webkit-linear-gradient(to right, #d1f103, #f7ff00);
+  background: linear-gradient(to right, #72e613, #f7ff00);  
   grid-area: footer;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
@@ -96,3 +99,4 @@ a {
   width: 500px; 
 
 }
+
